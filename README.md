@@ -1,0 +1,1 @@
+File ini berisi skrip sederhana untuk melakukan tangkapan layar (screenshot) secara otomatis dengan jeda waktu tertentu. Skrip ini biasanya digunakan pada tool automation keyboard / macro seperti Rubber Ducky, HID script
